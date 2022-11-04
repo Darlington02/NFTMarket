@@ -1,0 +1,14 @@
+["protostar.config"]
+protostar_version = "0.6.0"
+
+["protostar.project"]
+libs_path = "lib"
+
+["protostar.contracts"]
+ERC721 = [
+    "src/ERC721.cairo",
+]
+
+market = [
+    "src/market.cairo",
+]
