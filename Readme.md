@@ -21,5 +21,5 @@ NFTMarket is a simple Marketplace to buy and sell NFTS (ERC721) on StarkNet. The
 ```protostar deploy ./build/market.json --gateway-url "https://alpha4-2.starknet.io" --chain-id 1536727068981429685321```
 
 ## Deployed Contracts
-ERC721 - `0x02f5222bdb8e68b59736e1490c5ec36ab32f609e4e7058a4042841a51a6cec94`
-NFTMarket - `0x06cf851686be64942f9af1589162080ac26999c0baae1f21f0e7180ceb71650f`
+1. ERC721 - `0x02f5222bdb8e68b59736e1490c5ec36ab32f609e4e7058a4042841a51a6cec94`
+2. NFTMarket - `0x06cf851686be64942f9af1589162080ac26999c0baae1f21f0e7180ceb71650f`
