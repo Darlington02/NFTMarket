@@ -22,4 +22,10 @@ NFTMarket is a simple Marketplace to buy and sell NFTS (ERC721) on StarkNet. The
 
 ## Deployed Contracts
 1. ERC721 - `0x02f5222bdb8e68b59736e1490c5ec36ab32f609e4e7058a4042841a51a6cec94`
-2. NFTMarket - `0x06cf851686be64942f9af1589162080ac26999c0baae1f21f0e7180ceb71650f`
+2. NFTMarket - `0x05b3f40d5cdac77a4e922d8765a5a6ae96e64dc2a4796187d9a25166d0da2235`
+
+Available tokens for sale:
+1. Token ID - 2, Listing price 0.001ETH
+2. Token ID - 3, Listing price 0.001ETH
+3. Token ID - 4, Listing price 0.001ETH
+4. Token ID - 5, Listing price 0.001ETH
